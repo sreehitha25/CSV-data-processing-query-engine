@@ -1,0 +1,51 @@
+Order_ID,Order_Date,Customer_Name,Category,Product,Region,Quantity,Sales,Profit,Discount
+ORD001,2026-02-22,Rohit Verma,Technology,Monitor,North,1,694.4,68.2,0.05
+ORD002,2026-01-18,Arjun Reddy,Furniture,Desk,West,1,416.68,41.55,0.05
+ORD003,2026-03-23,Kiran Patel,Office Supplies,Printer Paper,East,8,290.6,58.53,0.0
+ORD004,2026-07-04,Vikram Das,Office Supplies,Desk Organizer,East,3,72.23,4.43,0.1
+ORD005,2026-07-03,Rohit Verma,Office Supplies,Desk Organizer,East,1,26.65,6.28,0.0
+ORD006,2026-05-03,Arjun Reddy,Furniture,Office Chair,North,4,1188.22,220.77,0.0
+ORD007,2026-06-07,Neha Singh,Furniture,Desk,North,5,2274.03,161.51,0.1
+ORD008,2026-05-21,Rohit Verma,Technology,Keyboard,South,9,767.39,104.72,0.05
+ORD009,2026-07-09,Rahul Kumar,Furniture,Office Chair,South,1,270.43,56.47,0.0
+ORD010,2026-08-05,Neha Singh,Furniture,Office Chair,South,4,1177.22,199.01,0.15
+ORD011,2026-07-12,Arjun Reddy,Office Supplies,Printer Paper,South,9,323.76,55.41,0.15
+ORD012,2026-03-26,Kiran Patel,Technology,Headphones,North,2,235.65,24.61,0.0
+ORD013,2026-09-28,Anita Rao,Furniture,Desk,North,7,3273.41,367.14,0.15
+ORD014,2026-01-24,Neha Singh,Office Supplies,Desk Organizer,South,6,141.35,7.46,0.15
+ORD015,2026-03-18,Rohit Verma,Technology,Monitor,North,5,3537.09,307.57,0.05
+ORD016,2026-05-08,Anita Rao,Furniture,Office Chair,South,8,2069.53,384.1,0.1
+ORD017,2026-09-25,Priya Sharma,Technology,Monitor,South,2,1386.3,327.83,0.0
+ORD018,2026-09-25,Arjun Reddy,Technology,Headphones,East,9,943.5,171.53,0.15
+ORD019,2026-04-03,Vikram Das,Furniture,Desk,North,6,2720.57,127.49,0.15
+ORD020,2026-01-28,Vikram Das,Office Supplies,Printer Paper,North,4,129.0,15.05,0.0
+ORD021,2026-08-08,Sneha Iyer,Office Supplies,Printer Paper,West,5,184.41,27.44,0.05
+ORD022,2026-07-15,Anita Rao,Office Supplies,Printer Paper,North,2,65.76,5.54,0.15
+ORD023,2026-04-18,Sneha Iyer,Technology,Laptop,South,7,8951.4,1072.24,0.0
+ORD024,2026-02-15,Rohit Verma,Furniture,Desk,North,3,1317.21,266.63,0.05
+ORD025,2026-04-06,Kiran Patel,Technology,Laptop,West,9,11741.82,2679.7,0.0
+ORD026,2026-01-13,Neha Singh,Technology,Headphones,West,4,480.89,51.14,0.0
+ORD027,2026-05-07,Anita Rao,Office Supplies,Desk Organizer,North,7,185.38,9.69,0.15
+ORD028,2026-09-06,Anita Rao,Furniture,Office Chair,North,1,260.41,28.11,0.15
+ORD029,2026-04-19,Meena Joshi,Technology,Keyboard,North,2,166.24,21.13,0.05
+ORD030,2026-04-22,Vikram Das,Technology,Monitor,South,7,4784.21,930.78,0.1
+ORD031,2026-02-01,Sneha Iyer,Office Supplies,Desk Organizer,North,7,165.58,19.56,0.1
+ORD032,2026-06-03,Arjun Reddy,Technology,Monitor,East,9,5631.39,372.76,0.1
+ORD033,2026-09-01,Rohit Verma,Office Supplies,Desk Organizer,East,3,75.57,10.8,0.1
+ORD034,2026-03-09,Neha Singh,Technology,Monitor,South,3,1897.14,377.13,0.0
+ORD035,2026-05-28,Anita Rao,Furniture,Office Chair,North,4,1184.4,149.08,0.1
+ORD036,2026-05-06,Sneha Iyer,Furniture,Desk,West,5,2089.84,351.89,0.1
+ORD037,2026-06-19,Rohit Verma,Technology,Laptop,South,2,2244.12,336.16,0.05
+ORD038,2026-01-12,Arjun Reddy,Furniture,Desk,South,3,1253.29,236.67,0.1
+ORD039,2026-03-08,Priya Sharma,Technology,Monitor,South,6,4196.49,769.28,0.15
+ORD040,2026-07-26,Arjun Reddy,Furniture,Desk,East,1,430.14,73.2,0.1
+ORD041,2026-04-07,Sneha Iyer,Technology,Keyboard,East,2,159.44,34.66,0.0
+ORD042,2026-05-28,Rahul Kumar,Office Supplies,Desk Organizer,East,4,96.46,12.18,0.05
+ORD043,2026-02-09,Priya Sharma,Furniture,Office Chair,East,9,2519.84,492.07,0.1
+ORD044,2026-06-14,Meena Joshi,Technology,Laptop,North,2,2494.35,403.01,0.1
+ORD045,2026-09-22,Arjun Reddy,Furniture,Desk,East,4,1747.7,48.53,0.15
+ORD046,2026-02-24,Neha Singh,Furniture,Desk,East,2,998.8,144.53,0.1
+ORD047,2026-04-14,Kiran Patel,Furniture,Desk,South,6,2701.3,361.18,0.1
+ORD048,2026-04-14,Meena Joshi,Office Supplies,Desk Organizer,East,7,180.18,23.17,0.0
+ORD049,2026-03-22,Rahul Kumar,Technology,Headphones,East,8,887.42,128.04,0.05
+ORD050,2026-04-26,Arjun Reddy,Furniture,Office Chair,South,2,606.86,103.26,0.05
